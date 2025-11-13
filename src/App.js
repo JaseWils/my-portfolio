@@ -130,7 +130,7 @@ function App() {
                 <span className="bg-blue-600 px-3 py-1 rounded text-sm">CRUD</span>
                 <span className="bg-blue-600 px-3 py-1 rounded text-sm">Database</span>
               </div>
-              <a href="https://github.com/JaseWils" 
+              <a href="https://github.com/sandipan-das-sd/Employee-Manegment-System-" 
                  target="_blank" rel="noopener noreferrer"
                  className="text-blue-400 hover:text-blue-300">
                 View on GitHub →
