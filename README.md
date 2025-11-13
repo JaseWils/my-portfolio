@@ -15,7 +15,7 @@ Built using **React + Tailwind CSS** and deployed on **Vercel**.
 ![Portfolio Screenshot](public/image.png)
 
 ## 📫 Contact
-- **Email:** [bishakmitra@example.com](mailto:bishakmitra@example.com)
+- **Email:** [bishakmitra@gmail.com](mailto:bishakmitra@example.com)
 - **LinkedIn:** [linkedin.com/in/bishakmitra](https://linkedin.com/in/bishakmitra)
 - **GitHub:** [github.com/JaseWils](https://github.com/JaseWils)
 
