@@ -45,13 +45,13 @@ function App() {
           <div className="max-w-3xl mx-auto text-lg text-gray-300 space-y-4">
             <p>
               I'm a final-year Computer Science student at Future Institute of Engineering & Management, 
-              with a CGPA of 7.75. My journey in web development began with a comprehensive training 
+              with a CGPA of 7.75. My journey in web development began with self studying on YouTube and comprehensive training 
               program in the MERN stack at Ardent Computech Pvt. Ltd.
             </p>
             <p>
               I'm passionate about creating efficient, user-friendly web applications and solving 
-              real-world problems through technology. Currently selected for Smart India Hackathon 2025 
-              where I'm working on environmental sustainability solutions.
+              real-world problems through technology. Previously selected for Smart India Hackathon 2025 
+              where I worked on environmental sustainability solutions.
             </p>
           </div>
         </div>
@@ -171,3 +171,20 @@ function App() {
 }
 
 export default App;
+
+/**
+ * Main Portfolio Application Component
+ * 
+ * This component renders the complete portfolio website including:
+ * - Navigation bar
+ * - Hero section with introduction
+ * - About section with background
+ * - Skills showcase
+ * - Projects gallery
+ * - Contact information
+ * 
+ * @returns {JSX.Element} Complete portfolio website
+ */
+function App() {
+  // ...
+}
