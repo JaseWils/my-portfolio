@@ -7,7 +7,7 @@
 
 A modern, responsive portfolio website built with React.js to showcase my projects, skills, and professional journey as a Full Stack Web Developer.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/1e3a8a/ffffff?text=Portfolio+Screenshot)
+![Portfolio Preview](./screenshots/desktop-view.png)
 
 ## 🔗 Live Demo
 
@@ -166,7 +166,7 @@ my-portfolio/
 │   └── index.css           # Global styles
 ├── package.json            # Project dependencies
 ├── README.md               # Project documentation
-└── .gitignore             # Git ignore rules
+└── .gitignore              # Git ignore rules
 ```
 
 ---
@@ -195,7 +195,7 @@ my-portfolio/
 
 ## 🌐 Deployment
 
-This project is deployed on **Vercel** at [my-portfolio-abc123.vercel.app](https://my-portfolio-abc123.vercel.app) with automatic deployments on every push to the main branch.
+This project is deployed on **Vercel** at [my-portfolio.vercel.app](https://bishakmitra.vercel.app/) with automatic deployments on every push to the main branch.
 
 ### Deploy Your Own Copy
 
@@ -243,15 +243,21 @@ background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0f172a 100%);
 
 Edit `src/App.js`:
 
+```javascript
+// Update your name
 <h2 className="hero-title">Hi, I'm Your Name</h2>
+
+// Update your role
 <p className="hero-subtitle">Your Title</p>
 
+// Update your skills, projects, etc.
+```
 
 ### Add New Sections
 
 Add new sections in `src/App.js` following the existing pattern:
 
-
+```javascript
 <section id="new-section" className="section">
   <div className="container">
     <h2 className="section-title">New Section</h2>
@@ -261,6 +267,7 @@ Add new sections in `src/App.js` following the existing pattern:
 ```
 
 ---
+
 
 ## 🔮 Future Enhancements
 
